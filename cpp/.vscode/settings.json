@@ -24,6 +24,9 @@
         "type_traits": "cpp",
         "typeinfo": "cpp",
         "mallocstr.h": "c",
-        "stdlib.h": "c"
+        "stdlib.h": "c",
+        "thread": "cpp",
+        "chrono": "cpp",
+        "future": "cpp"
     }
 }

@@ -12,7 +12,8 @@
                 "-g",
                 "-Wall",
                 "-static-libgcc",
-                "-std=c++17"
+                "-std=c++17",
+                "-lpthread",
             ],
             "group": {
                 "kind": "build",
